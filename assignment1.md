@@ -45,7 +45,9 @@ Having to draw comparisons bewteen data sets from two articles:
 Mental Health [ https://www.nimh.nih.gov/health/statistics/mental-illness.shtml ]
 Social media [ https://www.pewresearch.org/internet/2018/03/01/social-media-use-in-2018/ ] 
 
-* Quality: This first link does a great job at conveying the data behind the growth and influx of mental health, broken down by age. The second article communicates the growing use of social media in the rise of Instagram and Facebook era. Both articles have been peer reviewed and are from credible sources making their research trustworthy. For this I will give the accuracy and quality of the information a 5. Both articles have also been published within the past year making it relevant to today. 
+**Objective**
+
+This first link does a great job at conveying the data behind the growth and influx of mental health, broken down by age. The second article communicates the growing use of social media in the rise of Instagram and Facebook era. Both articles have been peer reviewed and are from credible sources making their research trustworthy. For this I will give the accuracy and quality of the information a 5. Both articles have also been published within the past year making it relevant to today. 
 
 The colors and the use of graphs helped to assist the reading and provide visual context. Each graph was broken down appropriately by age, mental disorder, and social media use, bringing its data clarity to a 5. 
 
