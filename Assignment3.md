@@ -23,6 +23,7 @@
   * ETC…
 * From Row [ C ]
   * If NECKLACE S then Necklace Sets
+*Added missing headers to rows [ H-J ]
 * Focusing on filling the blanks in the data in row [ K ]
   * Clicked to row [ N ]
   * Entered Formula =IF(ISBLANK(K2)," No Response", K2)
