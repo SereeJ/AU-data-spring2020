@@ -1,0 +1,96 @@
+COUNTA of armed,race,,,,,,,
+armed,,A,B,H,N,O,W,Grand Total
+gun,305,29,684,408,39,19,1295,2779
+knife,75,27,136,145,16,12,319,730
+unarmed,6,5,104,54,3,5,126,303
+undetermined,39,2,41,43,4,1,70,200
+toy weapon,12,1,34,30,1,,95,173
+vehicle,17,,34,14,1,2,37,105
+unknown weapon,15,4,13,12,1,1,27,73
+machete,3,1,10,13,,,14,41
+ax,3,2,1,2,,,16,24
+Taser,3,,6,2,1,,9,21
+sword,,1,3,4,,,11,19
+gun and knife,3,2,3,5,,,4,17
+baseball bat,2,1,4,4,,,6,17
+hammer,1,2,1,3,,,7,14
+box cutter,1,,3,2,,,6,12
+metal pipe,,,2,4,,,5,11
+hatchet,,,1,,,,10,11
+sharp object,2,,2,3,,,3,10
+screwdriver,,,3,1,1,1,4,10
+crossbow,3,,,,,,6,9
+gun and car,,,3,1,,,4,8
+gun and vehicle,,,,4,,,3,7
+pipe,1,,,4,,,1,6
+shovel,1,,,2,,,2,5
+scissors,,1,,1,1,,2,5
+rock,,,2,,,,3,5
+piece of wood,,,1,3,,,1,5
+blunt object,,,,1,1,,3,5
+baton,1,,3,,,,1,5
+straight edge razor,,,1,1,,,2,4
+metal object,2,,,1,,,1,4
+meat cleaver,,,2,2,,,,4
+crowbar,,,1,2,,,1,4
+chair,,,2,1,,,1,4
+BB gun,,,2,,,,2,4
+pick-axe,,,,3,,,,3
+metal stick,,,,1,,,2,3
+guns and explosives,,,2,,,,1,3
+glass shard,1,,,1,,,1,3
+chain,,,2,,,,1,3
+beer bottle,2,,,,,,1,3
+vehicle and gun,,,1,,,1,,2
+pole and knife,,,,1,,,1,2
+pole,,,2,,,,,2
+pitchfork,,,,,,,2,2
+pellet gun,,,2,,,,,2
+metal pole,,,,1,,,1,2
+lawn mower blade,,,1,,,,1,2
+incendiary device,,1,,1,,,,2
+hatchet and gun,,1,,,,,1,2
+garden tool,,,,1,,,1,2
+flashlight,1,,,,,,1,2
+chain saw,1,,,,,,1,2
+brick,,,,1,,,1,2
+wrench,,,,1,,,,1
+wasp spray,,,,,,,1,1
+walking stick,,,,,1,,,1
+vehicle and machete,,,1,,,,,1
+tire iron,1,,,,,,,1
+stapler,,,,1,,,,1
+spear,,,,1,,,,1
+samurai sword,,,,,,,1,1
+pepper spray,,,1,,,,,1
+pen,,1,,,,,,1
+oar,,,,,,,1,1
+nail gun,,,,1,,,,1
+motorcycle,,,1,,,,,1
+metal rake,,,,,,,1,1
+metal hand tool,,,1,,,,,1
+machete and gun,,,,,,,1,1
+ice pick,,,,,,,1,1
+hand torch,,,,1,,,,1
+gun and sword,,,,,,,1,1
+flagpole,,,1,,,,,1
+fireworks,,,,,,,1,1
+cordless drill,,,,,,,1,1
+contractor's level,,,,1,,,,1
+claimed to be armed,,,,,,,1,1
+chainsaw,,,,,,,1,1
+carjack,,,,,,,1,1
+"car, knife and mace",,,,,,,1,1
+bow and arrow,,,,,,1,,1
+bean-bag gun,,,,1,,,,1
+BB gun and vehicle,,,,,,,1,1
+bayonet,,,,1,,,,1
+baseball bat and knife,,,,,,,1,1
+baseball bat and fireplace poker,,,,,,,1,1
+baseball bat and bottle,,,,,,,1,1
+barstool,,,,1,,,,1
+Airsoft pistol,1,,,,,,,1
+air pistol,,,,,,,1,1
+air conditioner,,,,,,,1,1
+,0,0,0,0,0,0,0,0
+Grand Total,502,81,1117,791,70,43,2132,4736
