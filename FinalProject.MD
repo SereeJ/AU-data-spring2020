@@ -10,7 +10,7 @@ Most states do a poor job logging data regarding police fault fatalities, as onl
 
 Starting Jan. 1  2015, following the deadly police events of the Micheal Brown, Fergerson Mo. case,  Washington Post research reporters Tate, Jennifer Jenkins, Steven Rich and a team of experts started to dig where most states for years overlooked - police fault fatalities. With tensions high regarding police using deadly force, Washington post reporters compiled an expansive set of data and details pertaining to every fatal police shooting that has occurred in 47 of the largest metros from 2015 until Today. According to The Washington Posts’ recently updated analysis on police shootings, Washington D.C rates the absolute lowest of all 50 states with a rating of 39.4% in fatal police shootings. 
 
-**Graph 2 | State Ranks **
+**Graph 2 | State Ranks**
 
 The Washington Post does a great job reporting their findings, but one can only wonder how many of the “victims with guns” are alleged, against the number of killings committed out of racial prejudice. With too many holes in the data that is dispersed and scattered about different agencies and locations to draw valid conclusions, The Post began their own assessment on police shootings. 
 
